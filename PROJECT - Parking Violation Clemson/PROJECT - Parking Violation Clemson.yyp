@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"skaterBoard","path":"sprites/skaterBoard/skaterBoard.yy",},"order":2,},
     {"id":{"name":"skaterRiding","path":"sprites/skaterRiding/skaterRiding.yy",},"order":0,},
+    {"id":{"name":"titleRotate","path":"objects/titleRotate/titleRotate.yy",},"order":0,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":4,},
     {"id":{"name":"skaterHit","path":"sprites/skaterHit/skaterHit.yy",},"order":1,},
     {"id":{"name":"CUPD","path":"sprites/CUPD/CUPD.yy",},"order":3,},
