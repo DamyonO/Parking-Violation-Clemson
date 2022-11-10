@@ -6,10 +6,13 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"skaterBoard","path":"sprites/skaterBoard/skaterBoard.yy",},"order":2,},
     {"id":{"name":"skaterRiding","path":"sprites/skaterRiding/skaterRiding.yy",},"order":0,},
+    {"id":{"name":"enemy","path":"objects/enemy/enemy.yy",},"order":2,},
     {"id":{"name":"titleRotate","path":"objects/titleRotate/titleRotate.yy",},"order":0,},
+    {"id":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},"order":1,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":4,},
     {"id":{"name":"skaterHit","path":"sprites/skaterHit/skaterHit.yy",},"order":1,},
     {"id":{"name":"CUPD","path":"sprites/CUPD/CUPD.yy",},"order":3,},
+    {"id":{"name":"player","path":"objects/player/player.yy",},"order":1,},
     {"id":{"name":"min_font","path":"extensions/min_font/min_font.yy",},"order":0,},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},"order":0,},
   ],
@@ -25,6 +28,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
   ],
   "Folders": [
