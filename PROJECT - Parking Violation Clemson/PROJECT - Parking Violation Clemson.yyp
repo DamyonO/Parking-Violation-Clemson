@@ -3,11 +3,13 @@
   "resourceVersion": "1.6",
   "name": "PROJECT - Parking Violation Clemson",
   "resources": [
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"skaterBoard","path":"sprites/skaterBoard/skaterBoard.yy",},"order":2,},
     {"id":{"name":"skaterRiding","path":"sprites/skaterRiding/skaterRiding.yy",},"order":0,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":4,},
     {"id":{"name":"skaterHit","path":"sprites/skaterHit/skaterHit.yy",},"order":1,},
     {"id":{"name":"CUPD","path":"sprites/CUPD/CUPD.yy",},"order":3,},
+    {"id":{"name":"min_font","path":"extensions/min_font/min_font.yy",},"order":0,},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},"order":0,},
   ],
   "Options": [
@@ -46,7 +48,18 @@
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"careless-script.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"min font readme.txt","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"min.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"orthogonal.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"submin.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"min font readme.txt","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"careless-script.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"min.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"orthogonal.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"submin.ttf","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "MetaData": {
     "IDEVersion": "2022.9.1.51",
   },
