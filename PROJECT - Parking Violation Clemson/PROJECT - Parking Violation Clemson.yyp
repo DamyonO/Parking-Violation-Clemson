@@ -12,6 +12,7 @@
     {"id":{"name":"skaterRiding","path":"sprites/skaterRiding/skaterRiding.yy",},"order":0,},
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},"order":1,},
     {"id":{"name":"titleRotate","path":"objects/titleRotate/titleRotate.yy",},"order":0,},
+    {"id":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},"order":1,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":4,},
     {"id":{"name":"skaterHit","path":"sprites/skaterHit/skaterHit.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":5,},
@@ -32,6 +33,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
   ],
   "Folders": [
