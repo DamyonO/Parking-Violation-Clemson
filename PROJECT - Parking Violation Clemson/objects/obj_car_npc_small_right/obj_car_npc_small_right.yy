@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_car_npc_small",
+  "name": "obj_car_npc_small_right",
   "spriteId": {
     "name": "car_small_right",
     "path": "sprites/car_small_right/car_small_right.yy",

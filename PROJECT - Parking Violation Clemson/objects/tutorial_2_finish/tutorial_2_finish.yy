@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "tutorial_2_finish",
   "spriteId": {
-    "name": "parking_slot",
-    "path": "sprites/parking_slot/parking_slot.yy",
+    "name": "parking_slot_long",
+    "path": "sprites/parking_slot_long/parking_slot_long.yy",
   },
   "solid": false,
   "visible": true,
