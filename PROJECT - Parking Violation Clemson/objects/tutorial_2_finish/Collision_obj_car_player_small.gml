@@ -13,5 +13,6 @@ audio_play_sound(win, 0, 0, 1.0, undefined, 1.0);
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 104B63FD
-/// @DnDArgument : "room" "TutorialWin"
-room_goto(TutorialWin);
+/// @DnDArgument : "room" "Level1"
+/// @DnDSaveInfo : "room" "Level1"
+room_goto(Level1);
