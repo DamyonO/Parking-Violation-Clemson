@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 623F2F29
+/// @DnDArgument : "soundid" "weewoo"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "weewoo"
+audio_play_sound(weewoo, 0, 1, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1
 /// @DnDHash : 5E78194A
