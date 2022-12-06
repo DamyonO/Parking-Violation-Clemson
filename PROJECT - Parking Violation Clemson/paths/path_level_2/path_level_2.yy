@@ -1,7 +1,7 @@
 {
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
-  "name": "Path2",
+  "name": "path_level_2",
   "kind": 1,
   "closed": true,
   "precision": 4,

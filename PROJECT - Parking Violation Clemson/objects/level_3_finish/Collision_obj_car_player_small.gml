@@ -13,6 +13,6 @@ audio_play_sound(win, 0, 0, 1.0, undefined, 1.0);
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 104B63FD
-/// @DnDArgument : "room" "Level3"
-/// @DnDSaveInfo : "room" "Level3"
-room_goto(Level3);
+/// @DnDArgument : "room" "TitleScreen"
+/// @DnDSaveInfo : "room" "TitleScreen"
+room_goto(TitleScreen);
