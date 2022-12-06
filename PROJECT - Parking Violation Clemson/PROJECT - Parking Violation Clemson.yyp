@@ -33,6 +33,7 @@
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},"order":2,},
     {"id":{"name":"obj_car_player_small","path":"objects/obj_car_player_small/obj_car_player_small.yy",},"order":1,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":0,},
+    {"id":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},"order":1,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":4,},
     {"id":{"name":"TutorialWin","path":"rooms/TutorialWin/TutorialWin.yy",},"order":6,},
     {"id":{"name":"crash","path":"sounds/crash/crash.yy",},"order":0,},
@@ -74,6 +75,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"lvl1","path":"rooms/lvl1/lvl1.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"roomId":{"name":"LoadRoom","path":"rooms/LoadRoom/LoadRoom.yy",},},
