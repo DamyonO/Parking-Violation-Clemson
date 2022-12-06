@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "tutorial_1_finish",
+  "name": "level_1_finish",
   "spriteId": {
     "name": "parking_slot_long",
     "path": "sprites/parking_slot_long/parking_slot_long.yy",

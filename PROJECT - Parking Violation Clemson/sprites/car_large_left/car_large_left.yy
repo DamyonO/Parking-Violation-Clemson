@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "group1",
-    "path": "folders/Sprites/car_sprites/group1.yy",
+    "name": "car_large",
+    "path": "folders/Sprites/car_sprites/car_large.yy",
   },
 }

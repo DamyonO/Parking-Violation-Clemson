@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cupd",
+  "name": "obj_cupd_tutorial",
   "spriteId": {
     "name": "car_cupd_right",
     "path": "sprites/car_cupd_right/car_cupd_right.yy",
